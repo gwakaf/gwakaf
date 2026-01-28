@@ -1,12 +1,12 @@
-### 🚀 Data Engineer | Python & Cloud Practitioner
+### 🚀 Software Engineer (Data, Quality & Automation)
 
+Experience in driving quality and test automation for complex, large-scale software systems. 
 Building scalable ETL pipelines, automating data workflows, and experimenting with **LLM-powered tools**.  
-I work across **AWS**, **Airflow**, **Spark**, and **vector databases** to turn raw data into reliable, queryable systems.
 
 ## 🛠️ Tech Stack
 
-**Languages/Frameworks:** Python • SQL • PySpark • Pytest  
-**Data & Orchestration:** Airflow • Airflow • BigQuery • PostgreSQL • Spark   
+**Languages/Frameworks:** Python • SQL • Pytest • PySpark  
+**Data & Orchestration:** Airflow • BigQuery • PostgreSQL • Spark   
 **Cloud & Infrastructure:** AWS (S3, Glue, Redshift, EMR) • GCP (BigQuery, Cloud Storage) • Docker • GitLab CI/CD  
 **AI & ML:** Embeddings • Vector Databases • RAG • LLM Agents    
 
